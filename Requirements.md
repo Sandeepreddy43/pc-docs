@@ -1,6 +1,6 @@
 Pioneer Coders requirements docs
 
-![PC requirements](../imag/PC Web Features.png)
+![pc requirements img](../img/pc-web-features.png)
 
 # Tutorial Module
 
