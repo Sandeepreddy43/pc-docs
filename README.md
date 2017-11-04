@@ -18,12 +18,11 @@ Pioneer Coders website test scenarios.
 | 1 | Forgot password | 1) Launch  login popup <br> 2) Click on forgot password <br> 3) On Forgot password page enter valid registered email id <br> 4) Password reset page url shold send to mail <br> 5) Open mail and click the reset password url. it shold land on password reset page. <br> 6) Enter new password. | Password should be able to reset. |   |
 
 ## Tutorials  test scenarios
-  
-| S.NO | Scenario                 | Success/ Error Messages  |
-| ---- |:-------------:| -----:|
-| 1    | Get Tutorial by top name  | It should return tutorial conternt for that topic | 
-| 2    | Get Tutorial by top name </br> no tutorial file in backend. | it should return the content not avaliable html file. |
 
+| S.No | Scenario           |  Steps  |  Expetcted Result   |  Success/ Error Message  |
+| ------------- |-------------| -----| -----|  -----|
+| 1 | Get Tutorial by top name | 1) Mouse over on tutorial page and click on HTML <br> 2) Click on any HTML topic | User should be able to see corresponding tutorial. |   |
+| 1 | Get Tutorial by top name<br> Tutorial Content not avalible in server. | 1) Mouse over on tutorial page and click on HTML <br> 2) Click on any HTML topic | User should be able to see Tutorial not available page. |   |
 
 
 
