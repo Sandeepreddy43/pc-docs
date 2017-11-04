@@ -9,14 +9,13 @@ Pioneer Coders website test scenarios.
 | S.No | Scenario           |  Steps  |  Expetcted Result   |  Success/ Error Message  |
 | ------------- |-------------| -----| -----|  -----|
 | 1 | Login With valid credintials | 1) Click on login button <br> 2) login popup should show <br> 3) enter valid email and password  | User should land on desktop page |   |
-| 2 | Login With invalid credintials | 1) Launch Login popu <br> 2) Enter in valid credetials      | Login should Failed with error message   |  Invalid credentials |
+| 2 | Login With invalid credintials | 1) Launch Login popup <br> 2) Enter in valid credetials      | Login should Failed with error message   |  Invalid credentials, Please check email and password. |
 
 ## Forgot password test scenarios
 
-| S.No | Scenario           | Expetcted Result   |  Success/ Error Message  |
-| ------------- |:-------------:| -----:|  -----:|
-| 1 | Forgot password | User should land on change password page <br> after entering emails id, password change link should go to the mail    |   |
-| 2 | Login With invalid credintials <br> (invalid user or invalid pwd)      | Login should Failed with error message   |  Invalid credentials |
+| S.No | Scenario           |  Steps  |  Expetcted Result   |  Success/ Error Message  |
+| ------------- |-------------| -----| -----|  -----|
+| 1 | Forgot password | 1) Launch  login popup <br> 2) Click on forgot password <br> 3) On Forgot password page enter valid email id <br> 4) Password reset page url shold send to mail <br> 5) upon clicking that url user shold land on password set page. | Password should be able to reset. |   |
 
 ## Tutorials  test scenarios
   
