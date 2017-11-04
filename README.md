@@ -22,7 +22,11 @@ Pioneer Coders website test scenarios.
 | S.No | Scenario           |  Steps  |  Expetcted Result   |  Success/ Error Message  |
 | ------------- |-------------| -----| -----|  -----|
 | 1 | Get Tutorial by topic name | 1) Mouse over on tutorial page and click on HTML <br> 2) Click on any HTML topic | User should be able to see corresponding tutorial. |   |
-| 2 | Get Tutorial by topic name <br> Tutorial Content not avalible in server. | 1) Mouse over on tutorial page and click on HTML <br> 2) Click on any HTML topic |  |  User should be able to see Tutorial not available page. |
+| 2 | Get Tutorial by topic name <br> if Tutorial Content not avalible in server. | 1) Mouse over on tutorial page and click on HTML <br> 2) Click on any HTML topic | User should be able to see Tutorial not available page. |   |
+| 3 | Get Programs by topic name | 1) Mouse over on tutorial page and click on HTML <br> 2) Click on any HTML topic <br> 3) Click on programs | User should be able to programs corresponding to that topic.  |   |
+| 4 | Get Programs by topic name <br> if Programs not avalible in server. | 1) Mouse over on tutorial page and click on HTML <br> 2) Click on any HTML topic <br> 3) Click on programs |  User should be able to see programs not available page. |  |
+| 5 | Get Quiz by topic name | 1) Mouse over on tutorial page and click on HTML <br> 2) Click on any HTML topic <br> 3) Click on Quiz tab | User should be able to see avaliable quiz correspong to that topic. |   |
+| 6 | Get Quiz by topic name <br> if Programs not avalible in server. | 1) Mouse over on tutorial page and click on HTML <br> 2) Click on any HTML topic <br> 3) Click on quiz |  User should be able to see quiz not available page. |  |
 
 
 
