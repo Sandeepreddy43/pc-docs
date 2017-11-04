@@ -9,7 +9,7 @@ Pioneer Coders website test scenarios.
 | S.No | Scenario           |  Steps  |  Expetcted Result   |  Success/ Error Message  |
 | ------------- |-------------| -----| -----|  -----|
 | 1 | Registration | 1) Click on Register button <br> 2) registration popup should show <br> 3) enter valid email, mobile, password, confirm password and select user role radio button<br> 4) Activation mail should send <br> 5) on clicking activation mail, user should activate.  | User should land on correspong role desktop page |   |
-| 2 | Registration with alreday existed mail id or Mobile in the system. | 1) Click on Register button <br> 2) registration popup should show <br> 3) enter already existed email id in the system <br> | | Email or mobile is already existed system. plase try to register with different email id.  |
+| 2 | Registration with alreday existed mail id or Mobile in the system. | 1) Click on Register button <br> 2) registration popup should show <br> 3) enter already existed email or mobile in the system <br> 4) complete the registration <br> 5) click on registration button | | Email or mobile is already existed system. plase try to register with different email id.  |
 
 
 ## Login test scenarios
