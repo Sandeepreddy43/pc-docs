@@ -1,5 +1,7 @@
 Pioneer Coders requirements docs
 
+![PC requirements](../imag/PC Web Features.png)
+
 # Tutorial Module
 
 1. As a student I should be able to read tutorials of each topic of course.
