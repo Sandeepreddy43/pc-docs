@@ -22,7 +22,7 @@ Pioneer Coders website test scenarios.
 | S.No | Scenario           |  Steps  |  Expetcted Result   |  Success/ Error Message  |
 | ------------- |-------------| -----| -----|  -----|
 | 1 | Get Tutorial by top name | 1) Mouse over on tutorial page and click on HTML <br> 2) Click on any HTML topic | User should be able to see corresponding tutorial. |   |
-| 1 | Get Tutorial by top name<br> Tutorial Content not avalible in server. | 1) Mouse over on tutorial page and click on HTML <br> 2) Click on any HTML topic | User should be able to see Tutorial not available page. |   |
+| 2 | Get Tutorial by top name<br> Tutorial Content not avalible in server. | 1) Mouse over on tutorial page and click on HTML <br> 2) Click on any HTML topic |  |  User should be able to see Tutorial not available page. |
 
 
 
