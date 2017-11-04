@@ -4,6 +4,14 @@ Pioneer Coders website test scenarios.
 
 # Test Scenarios
 
+## User Registration test scenarios
+
+| S.No | Scenario           |  Steps  |  Expetcted Result   |  Success/ Error Message  |
+| ------------- |-------------| -----| -----|  -----|
+| 1 | Registration | 1) Click on Register button <br> 2) registration popup should show <br> 3) enter valid email, mobile, password, confirm password and select user role radio button<br> 4) Activation mail should send <br> 5) on clicking activation mail, user should activate.  | User should land on desktop page |   |
+
+
+
 ## Login test scenarios
 
 | S.No | Scenario           |  Steps  |  Expetcted Result   |  Success/ Error Message  |
