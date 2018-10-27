@@ -14,12 +14,16 @@
 ##### Sprint 3
 1) Teacher should able to register and manage this profile.
 2) Teacher should able to view and manage his students.
-2) Teacher should able to create tasks and assign to students.
-3) Teacher should able to create a quiz and coding test and assign to students.  
-4) Student should able to attempt the quiz and coding test.
+3) Teacher should able to create tasks and assign to students.
+4) Teacher should able to create a quiz and coding test and assign to students.  
+5) Student should able to attempt the quiz and coding test.
 (https://github.com/futurice/quiz-api)
-5) Teacher should able to see students quiz, coding results and submitted tasks.
+6) Teacher should able to see students quiz, coding results and submitted tasks.
 
 ##### Sprint 4
+1) Student should able to give the feedback for the teacher.
+2) Teacher should able to provide the feedback for the students.
+
+##### Sprint 5
 1) Student should able to chat with dev export to get clarifications.
 2) Student should able to wirte the coding competations to improve the coding skills.
